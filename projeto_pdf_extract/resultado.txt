@@ -1,0 +1,1 @@
+Erro na API: 404, {"error":"Model mistralai/Mistral-7B-Instruct does not exist"}

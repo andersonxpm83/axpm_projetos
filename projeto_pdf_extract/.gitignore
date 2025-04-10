@@ -1,0 +1,3 @@
+# Arquivo .gitignore
+.env
+meu_ambiente/

@@ -1,0 +1,6 @@
+- O documento apresenta um pedido de exames médicos realizado pelo paciente Anderson Xavier de Paiva Mello, assinado digitalmente pela Dra. Rosiane Aparecida Turim Gomes Pinho, com CRM 185007 SP.
+- Dentre os exames solicitados, destacam-se hemograma completo, colesterol total, glicemia em jejum, hormônio tireoestimulante (TSH), creatinina, entre outros. Além disso, inclui exames como Proteína C reativa, VDRL, HBsAg, Anti-HIV 1 e 2, Anti-HCV, entre outros.
+- Também foi solicitada uma radiografia de tórax com 2 incidências, além de um exame de rotina de urina com urocultura.
+- O acesso à receita digital via QR Code e a validação da assinatura do documento podem ser feitas por meio do link https://validador.memed.com.br utilizando o Token: RfpgQt.
+- O paciente possui o CPF 314.596.618-93 e o endereço fornecido para o exame é Rua Dona Adma Jafet 91.
+- O código de desbloqueio para a farmácia é 4256.
